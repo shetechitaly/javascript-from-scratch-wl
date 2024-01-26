@@ -43,8 +43,8 @@ Crea un file HTML contenente questo codice:
         <div class="container">
             <h1>Professional Bio Maker 📝</h1>
             <form id="#">
-                <input type="text" id="name" placeholder="Nome e Cognome" required>
-                <input type="text" id="role" placeholder="Ruolo" required>
+                <input type="text" id="#" placeholder="Nome e Cognome" required>
+                <input type="text" id="#" placeholder="Ruolo" required>
                 <textarea id="#" placeholder="Competenze Tecniche" required></textarea>
                 <textarea id="#" placeholder="Competenze Trasversali" required></textarea>
                 <textarea id="#" placeholder="Breve Biografia" required></textarea>
