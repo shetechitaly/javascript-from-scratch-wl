@@ -14,12 +14,12 @@ const config = {
   url: 'https://shetechitaly.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/javascript-from-scratch/',
+  baseUrl: '/javascript-from-scratch-aw/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'shetechitaly', // Usually your GitHub org/user name.
-  projectName: 'javascript-from-scratch', // Usually your repo name.
+  projectName: 'javascript-from-scratch-aw', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
