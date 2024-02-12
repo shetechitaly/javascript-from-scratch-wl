@@ -14,12 +14,12 @@ const config = {
   url: 'https://shetechitaly.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/javascript-from-scratch-aw/',
+  baseUrl: '/javascript-from-scratch-wl/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'shetechitaly', // Usually your GitHub org/user name.
-  projectName: 'javascript-from-scratch-aw', // Usually your repo name.
+  projectName: 'javascript-from-scratch-wl', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -62,7 +62,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/social-card.png',
+      image: '#',
       navbar: {
         title: 'JavaScript from scratch',
         logo: {
